@@ -12,5 +12,7 @@ public class MainActivity extends AppCompatActivity {
     }
     private void testIt(){
         int amit =9;
+        int i=2+2;
+        int k=amit+i;
     }
 }
